@@ -1,0 +1,84 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ---------- Funciones auxiliares ----------
+    function signedIn() { return request.auth != null; }
+    function profPath() { return /databases/$(database)/documents/users/$(request.auth.uid); }
+    function active() { return signedIn() && exists(profPath()) && get(profPath()).data.activo == true; }
+    function role() { return get(profPath()).data.role; }
+    function isAdmin() { return active() && role() == 'admin'; }
+    function inRoles(r) { return active() && (role() == 'admin' || role() in r); }
+    function onlyKeys(keys) { return request.resource.data.diff(resource.data).affectedKeys().hasOnly(keys); }
+
+    // ---------- Usuarios ----------
+    match /users/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      // Auto-registro: siempre entra "pendiente" e inactivo; el admin lo habilita.
+      allow create: if signedIn() && request.auth.uid == uid
+                    && request.resource.data.role == 'pendiente'
+                    && request.resource.data.activo == false;
+      allow update: if isAdmin() || (signedIn() && request.auth.uid == uid && onlyKeys(['nombre', 'ultimoAcceso']));
+      allow delete: if isAdmin();
+    }
+
+    // ---------- Configuración y catálogos (solo admin escribe) ----------
+    match /config/{d}          { allow read: if active(); allow write: if isAdmin(); }
+    match /parametros/{d}      { allow read: if active(); allow write: if inRoles(['supervisor']); }
+    match /catalogo_ect/{d}    { allow read: if active(); allow write: if isAdmin(); }
+    match /precios_carton/{d}  { allow read: if active(); allow write: if inRoles(['ventas', 'supervisor']); }
+
+    // ---------- CRM ----------
+    match /clientes/{id} {
+      allow read: if active();
+      allow write: if inRoles(['ventas', 'supervisor']);
+      allow update: if inRoles(['almacen', 'operador']) && onlyKeys(['ultimoPedido', 'totalPedidos', 'updatedAt']);
+      match /archivos/{fid} {
+        allow read: if active();
+        allow write: if inRoles(['ventas', 'supervisor']);
+      }
+    }
+    match /cotizaciones/{id} {
+      allow read: if active();
+      allow create, delete: if inRoles(['ventas', 'supervisor']);
+      allow update: if inRoles(['ventas', 'supervisor', 'almacen', 'operador']);
+    }
+    match /ordenes/{id} {
+      allow read: if active();
+      allow create: if inRoles(['ventas', 'supervisor']);
+      allow update: if inRoles(['ventas', 'supervisor', 'almacen', 'operador']);
+      allow delete: if isAdmin();
+      match /eventos/{eid} {
+        allow read: if active();
+        allow create: if active();
+        allow update, delete: if false;
+      }
+    }
+
+    // ---------- Inventarios ----------
+    match /materias_primas/{id} {
+      allow read: if active();
+      allow create, delete: if inRoles(['almacen', 'supervisor']);
+      allow update: if inRoles(['almacen', 'supervisor'])
+                    || (inRoles(['operador']) && onlyKeys(['stock', 'reservado', 'updatedAt', 'updatedBy']));
+    }
+    match /productos/{id} {
+      allow read: if active();
+      allow create, delete: if inRoles(['almacen', 'supervisor', 'ventas']);
+      allow update: if inRoles(['almacen', 'supervisor', 'ventas'])
+                    || (inRoles(['operador']) && onlyKeys(['stock', 'updatedAt', 'updatedBy']));
+    }
+    match /bom/{id}         { allow read: if active(); allow write: if inRoles(['almacen', 'supervisor']); }
+    match /proveedores/{id} { allow read: if active(); allow write: if inRoles(['almacen', 'supervisor']); }
+    match /movimientos_mp/{id} { allow read: if active(); allow create: if active(); allow update, delete: if isAdmin(); }
+    match /movimientos_pt/{id} { allow read: if active(); allow create: if active(); allow update, delete: if isAdmin(); }
+    match /mermas/{id}         { allow read: if active(); allow create: if active(); allow update, delete: if inRoles(['supervisor']); }
+
+    // ---------- Operación ----------
+    match /tareas/{id}              { allow read, write: if active(); }
+    match /solicitudes_ajuste/{id}  { allow read, write: if active(); }
+    match /contadores/{id}          { allow read, write: if active(); }
+
+    match /{document=**} { allow read, write: if false; }
+  }
+}

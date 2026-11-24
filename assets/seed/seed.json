@@ -1,0 +1,1593 @@
+{
+ "materiasPrimas": [
+  {
+   "sku": "CB-MP-001",
+   "descripcion": "Lámina de cartón KRAFT 1016x516 mm 23ECT_ FLAUTA Tipo C",
+   "largoMm": 1016,
+   "anchoMm": 516,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 23,
+   "cliente": "Minchos-caja grande",
+   "unidad": "HOJA",
+   "skuProducto": "CB-DM-CJ001",
+   "costoUnitario": 5.356323,
+   "clasificacion": "RECURRENTE",
+   "puntoReorden": 879.72,
+   "minimo": 879.72,
+   "maximo": 2909.85,
+   "stockExcel": 4180.0
+  },
+  {
+   "sku": "CB-MP-002",
+   "descripcion": "Lámina de cartón KRAFT 596x1178 mm 23ECT_ FLAUTA Tipo C",
+   "largoMm": 596,
+   "anchoMm": 1178,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 23,
+   "cliente": "Minchos-CajaFamiliar",
+   "unidad": "HOJA",
+   "skuProducto": "CB-DM-CJ-004",
+   "costoUnitario": 7.173233,
+   "clasificacion": "INTERMITENTE",
+   "puntoReorden": 374.66,
+   "minimo": 374.66,
+   "maximo": 1239.26,
+   "stockExcel": 1500.0
+  },
+  {
+   "sku": "CB-MP-003",
+   "descripcion": "Lámina de cartón KRAFT 882x886 mm 23ECT_ FLAUTA Tipo C",
+   "largoMm": 882,
+   "anchoMm": 886,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 23,
+   "cliente": "Minchos-CajaMediana",
+   "unidad": "HOJA",
+   "skuProducto": "CB-DM-CJ002",
+   "costoUnitario": 7.984095,
+   "clasificacion": "INTERMITENTE",
+   "puntoReorden": 264.98,
+   "minimo": 264.98,
+   "maximo": 876.48,
+   "stockExcel": 9899.0
+  },
+  {
+   "sku": "CB-MP-004",
+   "descripcion": "Lámina de cartón KRAFT 684x687 mm 23ECT_ FLAUTA Tipo C",
+   "largoMm": 684,
+   "anchoMm": 687,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 23,
+   "cliente": "Minchos-CajaChica",
+   "unidad": "HOJA",
+   "skuProducto": "CB-DM-CJ003",
+   "costoUnitario": 4.80105,
+   "clasificacion": "INTERMITENTE",
+   "puntoReorden": 238.44,
+   "minimo": 238.44,
+   "maximo": 788.69,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-005",
+   "descripcion": "Lámina de cartón KRAFT  1154*396 mm  SG ECT_Flauta tipo C",
+   "largoMm": 1179,
+   "anchoMm": 366,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": null,
+   "cliente": "Fullinks -Caja Crr 2",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ002",
+   "costoUnitario": 3.729903,
+   "clasificacion": "SIN MOVIMIENTO",
+   "puntoReorden": 0.0,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-006",
+   "descripcion": "Lámina  de cartón microcorrugado 934*470 mm _Flauta tipo E",
+   "largoMm": 934,
+   "anchoMm": 470,
+   "material": "Kraft",
+   "flauta": "E",
+   "ect": null,
+   "cliente": "Fullinks -Caja Crr 10*10*33",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ001",
+   "costoUnitario": 4.951505,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 205.4,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 15300.0
+  },
+  {
+   "sku": "CB-MP-007",
+   "descripcion": "Lámina de cartón KRAFT 854*360 mm SG ECT_FLAUTA Tipo C",
+   "largoMm": 854,
+   "anchoMm": 360,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": null,
+   "cliente": "Fullinks-Caja Crr 9*9*23",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CJ-004",
+   "costoUnitario": 2.509325,
+   "clasificacion": "SIN MOVIMIENTO",
+   "puntoReorden": 0.0,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-008",
+   "descripcion": "Lámina de cartón KRAFT 1127*380 mm 21ECT_FLAUTA Tipo C",
+   "largoMm": 1127,
+   "anchoMm": 380,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Fullinks-Caja Crr 8",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ008",
+   "costoUnitario": 3.658197,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 218.4,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-009",
+   "descripcion": "Lámina  de cartón KRAFT 1150*635 mm 21ECT_Flauta Tipo C",
+   "largoMm": 1150,
+   "anchoMm": 635,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Industrias Ble Separador",
+   "unidad": "HOJA",
+   "skuProducto": "CB-LEP-SP001",
+   "costoUnitario": 6.237795,
+   "clasificacion": "RECURRENTE",
+   "puntoReorden": 422.6,
+   "minimo": 422.6,
+   "maximo": 1397.82,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-010",
+   "descripcion": "Lámina de cartón KRAFT 2280*593 mm 23 ECT_FLAUTA Tipo C",
+   "largoMm": 2280,
+   "anchoMm": 593,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 23,
+   "cliente": "Industrias Ble caja plancha",
+   "unidad": "HOJA",
+   "skuProducto": "CB-LEP-CJ001",
+   "costoUnitario": 13.813793,
+   "clasificacion": "INTERMITENTE",
+   "puntoReorden": 543.44,
+   "minimo": 543.44,
+   "maximo": 1797.54,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-011",
+   "descripcion": "Lámina de cartón KRAFT 1955*622 mm 26ECT_Flauta Tipo C",
+   "largoMm": 1955,
+   "anchoMm": 622,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 26,
+   "cliente": "Industrias Ble Pan de caja",
+   "unidad": "HOJA",
+   "skuProducto": "CB-LEP-CJ002",
+   "costoUnitario": 13.044139,
+   "clasificacion": "RECURRENTE",
+   "puntoReorden": 901.41,
+   "minimo": 901.41,
+   "maximo": 2981.59,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-012",
+   "descripcion": "Lámina de cartón KRAFT 2280*593 mm 26 ECT_Flauta Tipo C",
+   "largoMm": 2280,
+   "anchoMm": 593,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 26,
+   "cliente": "Industrias Ble caja plancha",
+   "unidad": "HOJA",
+   "skuProducto": "CB-LEP-CJ001",
+   "costoUnitario": 14.5033,
+   "clasificacion": "SIN MOVIMIENTO",
+   "puntoReorden": 0.0,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-013",
+   "descripcion": "Lámina  de cartón KRAFT 1250*1100 mm 26ECT_Flauta Tipo C",
+   "largoMm": 1250,
+   "anchoMm": 1100,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 26,
+   "cliente": "Maena separador 7137-7138",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-SP001",
+   "costoUnitario": 14.749625,
+   "clasificacion": "RECURRENTE",
+   "puntoReorden": 175.24,
+   "minimo": 175.24,
+   "maximo": 579.64,
+   "stockExcel": 250.0
+  },
+  {
+   "sku": "CB-MP-014",
+   "descripcion": "Lámina de cartón KRAFT 1080*360 mm 26 ECT_Flauta Tipo C",
+   "largoMm": 1080,
+   "anchoMm": 360,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 26,
+   "cliente": "Maena separador 2998",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-SP005",
+   "costoUnitario": 4.170657,
+   "clasificacion": "SIN MOVIMIENTO",
+   "puntoReorden": 0.0,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-015",
+   "descripcion": "Lámina de carton KRAFT doble 1498*466 mm 42ECT_Flauta Tipo BC",
+   "largoMm": 1498,
+   "anchoMm": 466,
+   "material": "Kraft",
+   "flauta": "BC",
+   "ect": 42,
+   "cliente": "Maena caja c21 4498",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-CJ002",
+   "costoUnitario": 11.5858,
+   "clasificacion": "RECURRENTE",
+   "puntoReorden": 270.42,
+   "minimo": 270.42,
+   "maximo": 894.47,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-016",
+   "descripcion": "Lámina de cartón KRAFT 895*306 mm 26 ECT_Flauta Tipo C",
+   "largoMm": 895,
+   "anchoMm": 306,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 26,
+   "cliente": "Maena caja chica doble solapa",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-CJ007",
+   "costoUnitario": 3.233225,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 186.98,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-017",
+   "descripcion": "Lamina de carton KRAFT 907*320 mm 29 ECT_Flauta Tipo C",
+   "largoMm": 907,
+   "anchoMm": 320,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 29,
+   "cliente": "Maena caja chica con tapa",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-CJ003",
+   "costoUnitario": 11.341785,
+   "clasificacion": "N/A",
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-018",
+   "descripcion": "Lamina de carton KRAFT 1468*430 mm 21  C",
+   "largoMm": 1468,
+   "anchoMm": 430,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Caja mermeladas",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-CJ008",
+   "costoUnitario": 9.099792,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 248.3,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-019",
+   "descripcion": "Lamina de carton KRAFT 1484*565 mm 44 ECT  Tipo C",
+   "largoMm": 1486,
+   "anchoMm": 656,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 44,
+   "cliente": "--",
+   "unidad": "HOJA",
+   "skuProducto": null,
+   "costoUnitario": 2.937803,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 269.1,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 260.0
+  },
+  {
+   "sku": "CB-MP-020",
+   "descripcion": "Làmina de cartòn KRAFT 1200*1000 mm SG ECT Tipo C",
+   "largoMm": 1200,
+   "anchoMm": 1000,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": null,
+   "cliente": "Maena Rejilla chica 093",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MAE-RJ026",
+   "costoUnitario": 14.569919,
+   "clasificacion": "SIN MOVIMIENTO",
+   "puntoReorden": 0.0,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-021",
+   "descripcion": "Làmina de cartòn KRAFT 826*1695 mm 36 ECT Tipo BC",
+   "largoMm": 1695,
+   "anchoMm": 726,
+   "material": "Kraft",
+   "flauta": "BC",
+   "ect": 36,
+   "cliente": "Gastropia Caja 2 400*400*300",
+   "unidad": "HOJA",
+   "skuProducto": "CB-GAS-CJ036",
+   "costoUnitario": 7.40675,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 122.42,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-022",
+   "descripcion": "Làmina de cartòn KRAFT 1695*826 mm 36 ECT Tipo BC",
+   "largoMm": 1695,
+   "anchoMm": 826,
+   "material": "Kraft",
+   "flauta": "BC",
+   "ect": 36,
+   "cliente": "Gastropia Caja 1 400*400*400",
+   "unidad": "HOJA",
+   "skuProducto": "CB-GAS-CJ035",
+   "costoUnitario": 9.421642,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 102.7,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-023",
+   "descripcion": "Lamina  de carton KRAFT 954*630mm21 ECT Tipo C",
+   "largoMm": 954,
+   "anchoMm": 630,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Conekta WC Chica",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CON-CJ001",
+   "costoUnitario": 1.932588,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 461.28,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-024",
+   "descripcion": "Lamina  de carton KRAFT 954*630mm21 ECT Tipo C",
+   "largoMm": 966,
+   "anchoMm": 661,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Conekta WC Grande",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CON-CJ002",
+   "costoUnitario": 11.180012,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 90.78,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 1500.0
+  },
+  {
+   "sku": "CB-MP-025",
+   "descripcion": "Lamina  de carton KRAFT 1600*805 mm 32 ECT Tipo E",
+   "largoMm": 1600,
+   "anchoMm": 805,
+   "material": "Kraft",
+   "flauta": "E",
+   "ect": 32,
+   "cliente": "Fullinks Caja 115*115*615",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ006",
+   "costoUnitario": 9.7944,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 163.58,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-026",
+   "descripcion": "Lamina  de carton KRAFT 1600*805 mm 32 ECT Tipo E",
+   "largoMm": 1600,
+   "anchoMm": 805,
+   "material": "Kraft",
+   "flauta": "E",
+   "ect": 32,
+   "cliente": "Fullinks Caja 145*145*615",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ005",
+   "costoUnitario": 8.484852,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 78.43,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-027",
+   "descripcion": "Lamina  de carton KRAFT 1127*380 mm 21 ECT Tipo C",
+   "largoMm": 1127,
+   "anchoMm": 380,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Fullinks Caja Crr 8",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ008",
+   "costoUnitario": 7.516451,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 61.1,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-028",
+   "descripcion": "Lamina  de carton KRAFT 520*335 mm SG Tipo C",
+   "largoMm": 520,
+   "anchoMm": 335,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": null,
+   "cliente": "Maena Caja amarilla separador",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MAE-SP003",
+   "costoUnitario": 6.548542,
+   "clasificacion": "OCASIONAL",
+   "puntoReorden": 13.0,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 2352.0
+  },
+  {
+   "sku": "CB-MP-029",
+   "descripcion": "Lamina  de carton KRAFT  1910*736 mm 30 ECT Tipo BC",
+   "largoMm": 1910,
+   "anchoMm": 736,
+   "material": "Kraft",
+   "flauta": "BC",
+   "ect": 30,
+   "cliente": "Maena triangulo 431/432",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MAE-RJ028",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-030",
+   "descripcion": "Lamina  de carton KRAFT  1408*356 mm 42 ECT Tipo BC",
+   "largoMm": 1408,
+   "anchoMm": 356,
+   "material": "Kraft",
+   "flauta": "BC",
+   "ect": 42,
+   "cliente": "Maena caja 1022 stowe",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-CJ001",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-031",
+   "descripcion": "Lamina  de carton KRAFT  1481*460 mm 29 ECT Tipo C",
+   "largoMm": 1481,
+   "anchoMm": 460,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 29,
+   "cliente": "Maena caja c21",
+   "unidad": "HOJA",
+   "skuProducto": "CB-MM-CJ005",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-032",
+   "descripcion": "Lamina  de carton KRAFT  596*1178 mm 21 ECT Tipo C",
+   "largoMm": 596,
+   "anchoMm": 1178,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "La Terracita Caja Familiar",
+   "unidad": "HOJA",
+   "skuProducto": "CB-LT-CJ003",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-033",
+   "descripcion": "Lamina  de carton KRAFT  516*1016 mm 21 ECT Tipo C",
+   "largoMm": 516,
+   "anchoMm": 1016,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "La Terracita Caja Grande",
+   "unidad": "HOJA",
+   "skuProducto": "CB-LT-CJ002",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-034",
+   "descripcion": "Lamina  de carton KRAFT  882*886 mm 21 ECT Tipo C",
+   "largoMm": 882,
+   "anchoMm": 886,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "La Terracita Caja Mediana",
+   "unidad": "HOJA",
+   "skuProducto": "CB-LT-CJ001",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-035",
+   "descripcion": "Lamina  de carton KRAFT  684*687 mm 21 ECT Tipo C",
+   "largoMm": 684,
+   "anchoMm": 687,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Caja Chica 24*24",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-PZ001",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-036",
+   "descripcion": "Lamina  de carton KRAFT  516*1016 mm 21 ECT Tipo C",
+   "largoMm": 516,
+   "anchoMm": 1016,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Caja Grande 38*38",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ003",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-037",
+   "descripcion": "Lamina  de carton KRAFT  882*886 mm 21 ECT Tipo C",
+   "largoMm": 882,
+   "anchoMm": 886,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Caja mediana 32*32",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-PZ002",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-038",
+   "descripcion": "Lamina  de carton KRAFT  757*295 mm  SG Tipo C",
+   "largoMm": 757,
+   "anchoMm": 295,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": null,
+   "cliente": "Felipe islas  Caja mini",
+   "unidad": "HOJA",
+   "skuProducto": "CB-FEI-CJ002",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-039",
+   "descripcion": "Lamina  de carton KRAFT  962*798 mm  21 Tipo C",
+   "largoMm": 962,
+   "anchoMm": 798,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 21,
+   "cliente": "Felipe islas  Caja auto armable",
+   "unidad": "HOJA",
+   "skuProducto": "CB-FEI-CJ001",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-040",
+   "descripcion": "Lamina  de carton KRAFT  1290*626 mm  36 Tipo BC",
+   "largoMm": 1290,
+   "anchoMm": 626,
+   "material": "Kraft",
+   "flauta": "BC",
+   "ect": 36,
+   "cliente": "Juan pablo caja 30*30*30",
+   "unidad": "HOJA",
+   "skuProducto": "CB-CB-CJ001",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-041",
+   "descripcion": "Lamina  de carton KRAFT  1093*846 mm  30 Tipo BC",
+   "largoMm": 1093,
+   "anchoMm": 846,
+   "material": "Kraft",
+   "flauta": "BC",
+   "ect": 30,
+   "cliente": "Saul Garcia caja 1",
+   "unidad": "HOJA",
+   "skuProducto": "CB-SG-CJ001",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-042",
+   "descripcion": "Lamina  de carton KRAFT  1601*805 mm  32 Tipo E",
+   "largoMm": 1601,
+   "anchoMm": 802,
+   "material": "Kraft",
+   "flauta": "E",
+   "ect": 32,
+   "cliente": "Saul Garcia caja 2",
+   "unidad": "HOJA",
+   "skuProducto": "CB-SG-CJ002",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MP-043",
+   "descripcion": "Lamina  de cartón KRAFT  970*985 mm  23 Tipo C",
+   "largoMm": 970,
+   "anchoMm": 985,
+   "material": "Kraft",
+   "flauta": "C",
+   "ect": 23,
+   "cliente": "Zuleyma",
+   "unidad": "HOJA",
+   "skuProducto": "CB-ZUL-CJ001",
+   "costoUnitario": null,
+   "clasificacion": null,
+   "puntoReorden": null,
+   "minimo": null,
+   "maximo": null,
+   "stockExcel": 0
+  }
+ ],
+ "productos": [
+  {
+   "sku": "CB-DM-CJ001",
+   "descripcion": "PIZZA DON MINCHO CAJA GRANDE",
+   "costoUnitario": 9.97,
+   "stockExcel": 20235.0
+  },
+  {
+   "sku": "CB-DM-CJ004",
+   "descripcion": "PIZZA DON MINCHO CAJA FAMILIAR",
+   "costoUnitario": 13.22,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-DM-CJ002",
+   "descripcion": "PIZZA DON MINCHO CAJA MEDIANA",
+   "costoUnitario": 7.91,
+   "stockExcel": 152601.0
+  },
+  {
+   "sku": "CB-DM-CJ003",
+   "descripcion": "PIZZA DON MICNHO CAJA CHICA",
+   "costoUnitario": 5.15,
+   "stockExcel": 1795.0
+  },
+  {
+   "sku": "CB-CB-CJ002",
+   "descripcion": "FULLINKS -CAJA CRR 2",
+   "costoUnitario": 7.95,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CB-CJ0001",
+   "descripcion": "FULLINKS -CAJA CRR 10*10*33",
+   "costoUnitario": 10.5,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CB-CJ004",
+   "descripcion": "FULLINKS -CAJA CRR 9*9*23",
+   "costoUnitario": 7.8,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CB-CJ008",
+   "descripcion": "FULLINKS - CAJA CRR8",
+   "costoUnitario": 7.7,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-LEP-SP001",
+   "descripcion": "INDUSTRIAS BLE S.A DE C.V- SEPARADOR PAN CAJA",
+   "costoUnitario": 12.5,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-LEP-CJ001",
+   "descripcion": "INDUSTRIAS BLE S.A DE C.V CAJA PLANCHA  655*450*135 mm 23ECT",
+   "costoUnitario": 21.91,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-LEP-CJ002",
+   "descripcion": "INDUSTRIAS BLE S.A DE C.V PAN DE CAJA  580*360*250 mm",
+   "costoUnitario": 26.92,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MM-SP001",
+   "descripcion": "MAENA  S.A DE C.V SEPARADOR 7137-7138(Centauro)",
+   "costoUnitario": 25.39,
+   "stockExcel": 1550.0
+  },
+  {
+   "sku": "CB-MM-SP005",
+   "descripcion": "MAENA S.A DE C.V SEPADOR 298",
+   "costoUnitario": 4.98,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MM-CJ002",
+   "descripcion": "MAENA S.A DE C.V CAJA C21 4498",
+   "costoUnitario": 21.1,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MM-CJ007",
+   "descripcion": "MAENA S.A DE C.V CAJA CHICA DOBLE SOLADA 1045",
+   "costoUnitario": 6.62,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-REN-CJ001",
+   "descripcion": "Caja Rendipac Grande",
+   "costoUnitario": 22.6,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-REN-CJ002",
+   "descripcion": "Caja Rendipac Chica",
+   "costoUnitario": 22.0,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CB-CJ003",
+   "descripcion": "Pizza Generica -Grande",
+   "costoUnitario": 7.6,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CB-PZ001",
+   "descripcion": "Caja Generica Pizza -Chica",
+   "costoUnitario": 3.8,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CB-PZ002",
+   "descripcion": "Pizza Generica-Caja Mediana 32*32 cm",
+   "costoUnitario": 5.9,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MM-CJ008",
+   "descripcion": "Caja Mermelada CRR-40*30*12",
+   "costoUnitario": 13.86,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-GAS-CJ036",
+   "descripcion": "Caja 2 400*400*300 mm",
+   "costoUnitario": 35.5,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-GAS-CJ035",
+   "descripcion": "Caja 1 400*400*400 mm",
+   "costoUnitario": 35.0,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-LT-CJ003",
+   "descripcion": "Caja Familiar -Terracita",
+   "costoUnitario": 13.2,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-LT-CJ002",
+   "descripcion": "Caja Grande -Terracita",
+   "costoUnitario": 10.0,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-LT-CJ001",
+   "descripcion": "Caja Mediana -Terracita",
+   "costoUnitario": 8.04,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-DAC-CJ001",
+   "descripcion": "Caja catálogo 4pzs 27,5*22,5*24",
+   "costoUnitario": 11.5,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-DAC-CJ002",
+   "descripcion": "Caja 2(Calendario) 35,5*28,5*98",
+   "costoUnitario": 14.0,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB*CB-CJ004",
+   "descripcion": "Pizza Generica -Familiar",
+   "costoUnitario": 10.5,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CB-EQ001",
+   "descripcion": "Esquinero 4 Ext. 1830* 150 mm",
+   "costoUnitario": 9.47,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MAT-CJ009",
+   "descripcion": "Caja accesorios Regeskin 350*130*80",
+   "costoUnitario": 8.23,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MAT-CJ005",
+   "descripcion": "Caja regenes 460*380*280 mm",
+   "costoUnitario": null,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MAT-CJ017",
+   "descripcion": "Caja Ultrasonido  25*13*7 cm",
+   "costoUnitario": 25.3,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MAT-CJ004",
+   "descripcion": "Caja accesorio 350*120*80 mm",
+   "costoUnitario": 7.53,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CON-CJ001",
+   "descripcion": "CONEKTA Empaque WC Chico",
+   "costoUnitario": 12.1,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MAT-CJ001",
+   "descripcion": "Caja Radgnet 380*380*280 mm",
+   "costoUnitario": 23.83,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-MM-CJ003",
+   "descripcion": "MAENA S.A DE C.V C.CHICA C/Tapa separador 845F 270*150*160",
+   "costoUnitario": 6.18,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CZ-CJ001",
+   "descripcion": "Caja Para Zapatos",
+   "costoUnitario": 8.0,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CP-CJ001",
+   "descripcion": "Caja Pastes CRR",
+   "costoUnitario": 4.36,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CC-CJ-001",
+   "descripcion": "Caja Cofre 41*31*10 cm",
+   "costoUnitario": 21.0,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-CC-CJ-002",
+   "descripcion": "Caja Cofre 41*31*9 cm",
+   "costoUnitario": 19.8,
+   "stockExcel": 0
+  },
+  {
+   "sku": "CB-LGS-CJ-001",
+   "descripcion": "Caja pizza generica -Familiar 44*44*45",
+   "costoUnitario": 13.2,
+   "stockExcel": 0
+  }
+ ],
+ "bom": [
+  {
+   "skuPt": "CB-DM-CJ001",
+   "skuMp": "CB-MP-001",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Flexo"
+  },
+  {
+   "skuPt": "CB-DM-CJ-004",
+   "skuMp": "CB-MP-002",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Flexo"
+  },
+  {
+   "skuPt": "CB-DM-CJ002",
+   "skuMp": "CB-MP-003",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado manual"
+  },
+  {
+   "skuPt": "CB-DM-CJ003",
+   "skuMp": "CB-MP-004",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-CB-CJ002",
+   "skuMp": "CB-MP-005",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CB-CJ001",
+   "skuMp": "CB-MP-006",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CJ-004",
+   "skuMp": "CB-MP-007",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CB-CJ008",
+   "skuMp": "CB-MP-008",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-LEP-SP001",
+   "skuMp": "CB-MP-009",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-LEP-CJ001",
+   "skuMp": "CB-MP-010",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-LEP-CJ002",
+   "skuMp": "CB-MP-011",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-LEP-CJ001",
+   "skuMp": "CB-MP-012",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-MM-SP001",
+   "skuMp": "CB-MP-013",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-MM-SP005",
+   "skuMp": "CB-MP-014",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-MM-CJ002",
+   "skuMp": "CB-MP-015",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel/Pegado"
+  },
+  {
+   "skuPt": "CB-MM-CJ007",
+   "skuMp": "CB-MP-016",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-MM-CJ003",
+   "skuMp": "CB-MP-017",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-MM-CJ008",
+   "skuMp": "CB-MP-018",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-MAE-RJ026",
+   "skuMp": "CB-MP-020",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-GAS-CJ036",
+   "skuMp": "CB-MP-021",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-GAS-CJ035",
+   "skuMp": "CB-MP-022",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CON-CJ001",
+   "skuMp": "CB-MP-023",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CON-CJ002",
+   "skuMp": "CB-MP-024",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CB-CJ006",
+   "skuMp": "CB-MP-025",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CB-CJ005",
+   "skuMp": "CB-MP-026",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CB-CJ008",
+   "skuMp": "CB-MP-027",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-MAE-SP003",
+   "skuMp": "CB-MP-028",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-MAE-RJ028",
+   "skuMp": "CB-MP-029",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-MM-CJ001",
+   "skuMp": "CB-MP-030",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-MM-CJ005",
+   "skuMp": "CB-MP-031",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-LT-CJ003",
+   "skuMp": "CB-MP-032",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-LT-CJ002",
+   "skuMp": "CB-MP-033",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-LT-CJ001",
+   "skuMp": "CB-MP-034",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-CB-PZ001",
+   "skuMp": "CB-MP-035",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CB-CJ003",
+   "skuMp": "CB-MP-036",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-CB-PZ002",
+   "skuMp": "CB-MP-037",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-FEI-CJ002",
+   "skuMp": "CB-MP-038",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-FEI-CJ001",
+   "skuMp": "CB-MP-039",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel"
+  },
+  {
+   "skuPt": "CB-CB-CJ001",
+   "skuMp": "CB-MP-040",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-SG-CJ001",
+   "skuMp": "CB-MP-041",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-SG-CJ002",
+   "skuMp": "CB-MP-042",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  },
+  {
+   "skuPt": "CB-ZUL-CJ001",
+   "skuMp": "CB-MP-043",
+   "laminasPorPieza": 1.0,
+   "proceso": "Troquel / Pegado"
+  }
+ ],
+ "proveedores": [
+  {
+   "codigo": "PROV-001",
+   "nombre": "PAPELES Y CONVERSIONES DE MEXICO,S.A DE C.V",
+   "rfc": "PCM9307212B8",
+   "contacto": "Por definir",
+   "telefono": null,
+   "correo": null,
+   "leadTimeDias": 5.0,
+   "condicionPago": "30 días",
+   "materiales": "Láminas KRAFT Tipo C / BC - varios calibres",
+   "calificacion": 4.0,
+   "notas": "Proveedor principal. Revisar lead time real."
+  },
+  {
+   "codigo": "PROV-002",
+   "nombre": "REBELBOX S.A",
+   "rfc": null,
+   "contacto": null,
+   "telefono": null,
+   "correo": null,
+   "leadTimeDias": 5.0,
+   "condicionPago": "Contado",
+   "materiales": "Láminas KRAFT Tipo C / BC - varios calibres",
+   "calificacion": 3.0,
+   "notas": "Proveedor alternativo MP-001"
+  },
+  {
+   "codigo": "PROV-003",
+   "nombre": "CARTRO SAPI S.A.",
+   "rfc": "CAR120903D34",
+   "contacto": "Por definir",
+   "telefono": null,
+   "correo": null,
+   "leadTimeDias": 5.0,
+   "condicionPago": "15 días",
+   "materiales": "Láminas KRAFT Tipo C / BC - varios calibres",
+   "calificacion": 3.0,
+   "notas": "Proveedor alternativo MP-001"
+  }
+ ],
+ "ectPesos": [
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 20,
+   "pesoG10x10": 4.91
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 21,
+   "pesoG10x10": 4.05
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 23,
+   "pesoG10x10": 4.55
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 26,
+   "pesoG10x10": 5.18
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 29,
+   "pesoG10x10": 5.39
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 32,
+   "pesoG10x10": 5.87
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 36,
+   "pesoG10x10": 5.9
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 40,
+   "pesoG10x10": 5.99
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 42,
+   "pesoG10x10": 6.41
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 44,
+   "pesoG10x10": 6.48
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 51,
+   "pesoG10x10": 6.8
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 55,
+   "pesoG10x10": 7.12
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Kraft",
+   "ect": 56,
+   "pesoG10x10": 7.38
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Blanco",
+   "ect": 23,
+   "pesoG10x10": 4.58
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Blanco",
+   "ect": 26,
+   "pesoG10x10": 4.78
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Blanco",
+   "ect": 29,
+   "pesoG10x10": 4.66
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Blanco",
+   "ect": 32,
+   "pesoG10x10": 4.97
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Blanco",
+   "ect": 40,
+   "pesoG10x10": 5.37
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Blanco",
+   "ect": 41,
+   "pesoG10x10": 5.82
+  },
+  {
+   "tipo": "sencillo",
+   "material": "Blanco",
+   "ect": 44,
+   "pesoG10x10": 5.47
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 26,
+   "pesoG10x10": 5.97
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 30,
+   "pesoG10x10": 6.22
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 32,
+   "pesoG10x10": 6.42
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 33,
+   "pesoG10x10": 6.18
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 35,
+   "pesoG10x10": 6.59
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 36,
+   "pesoG10x10": 6.64
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 39,
+   "pesoG10x10": 6.35
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 40,
+   "pesoG10x10": 6.75
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 42,
+   "pesoG10x10": 6.85
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 44,
+   "pesoG10x10": 7.38
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 45,
+   "pesoG10x10": 7.73
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 48,
+   "pesoG10x10": 8.29
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 50,
+   "pesoG10x10": 8.56
+  },
+  {
+   "tipo": "doble",
+   "material": "Kraft",
+   "ect": 51,
+   "pesoG10x10": 8.86
+  },
+  {
+   "tipo": "doble",
+   "material": "Blanco",
+   "ect": 36,
+   "pesoG10x10": 6.84
+  },
+  {
+   "tipo": "doble",
+   "material": "Blanco",
+   "ect": 38,
+   "pesoG10x10": 7.74
+  },
+  {
+   "tipo": "doble",
+   "material": "Blanco",
+   "ect": 42,
+   "pesoG10x10": 7.92
+  },
+  {
+   "tipo": "doble",
+   "material": "Blanco",
+   "ect": 48,
+   "pesoG10x10": 8.61
+  },
+  {
+   "tipo": "doble",
+   "material": "Blanco",
+   "ect": 51,
+   "pesoG10x10": 9.09
+  },
+  {
+   "tipo": "micro",
+   "material": "Kraft",
+   "ect": 21,
+   "pesoG10x10": 4.28
+  },
+  {
+   "tipo": "micro",
+   "material": "Kraft",
+   "ect": 23,
+   "pesoG10x10": 4.4
+  },
+  {
+   "tipo": "micro",
+   "material": "Kraft",
+   "ect": 26,
+   "pesoG10x10": 5.35
+  },
+  {
+   "tipo": "micro",
+   "material": "Blanco",
+   "ect": 23,
+   "pesoG10x10": 3.86
+  },
+  {
+   "tipo": "micro",
+   "material": "Blanco",
+   "ect": 26,
+   "pesoG10x10": 4.3
+  }
+ ]
+}
